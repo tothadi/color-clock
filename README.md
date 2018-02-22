@@ -6,7 +6,8 @@ In this repo you can find a clock with a background changing its color in every 
 html, css, javascript
 
 #### Links
-[Preview] of the quote page
+[Preview] of the clock
+
 My [introduction] page
 
    [codeberry]: http://codeberry.hu
